@@ -10,7 +10,7 @@ Summary:\
 -Split data into training and validation set.\
 -Created a visualization that showed meaningful information about the data used to select features for a logistic regression model.\
 -Used feature engineering to create features to train the model.\
--Trained model using those features.
+-Trained model using those features.\
 -Results:\
 Training set accuracy = 0.969\
 Validation set accuracy = 0.957\
