@@ -1,6 +1,6 @@
 # Spam/Ham Classification Project
 
-Project 2B from Data 100 Summer 2022.
+Project 2B from Data 100 Summer 2022
 
 Objective:\
 -Create own classifier to distinguish spam emails from ham (non-spam) emails.\
