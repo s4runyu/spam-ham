@@ -2,11 +2,11 @@
 
 Project 2B from Data 100 Summer 2022.
 
-Objective:
+Objective:\
 -Create own classifier to distinguish spam emails from ham (non-spam) emails.\
 -Evaluation of model based on the model's accuracy.
 
-Summary:
+Summary:\
 -Split data into training and validation set.\
 -Created a visualization that showed meaningful information about the data used to select features for a logistic regression model.\
 -Used feature engineering to create features to train the model.\
